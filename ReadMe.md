@@ -1,4 +1,4 @@
-Enhances PLY support in Mathematica.
+Enhances PLY ( http://paulbourke.net/dataformats/ply/ ) support in Mathematica.
 
 Current version adds support for exporting Points (currently only for point-only Graphics3D data).
 
