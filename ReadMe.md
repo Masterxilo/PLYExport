@@ -10,3 +10,5 @@ Future versions might add the following:
 * Support for reading/writing arbitrary PLY files (custom API needed)
 
 Inspired by: http://mathematica.stackexchange.com/a/123316/6804
+
+License: WTFPL
